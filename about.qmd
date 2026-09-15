@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Nico"
 ---
 
-About this site
+- I'm a second year masters student in Applied Economics and Management with an Environmental and Natural Resources concentration
+
+- I grew up in Spokane, Washington and went to college at Loyola University Chicago
+
+- Before coming to Cornell, I worked in Glacier National Park and Yosemite National Park as an environmental educator
+
+- My favorite animal is a red fox
+
+  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QMWJ4ATnyxO85NZJTcUdneqKK5VM4Gw16NfpSOiAaQ&s=10)

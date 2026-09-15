@@ -1,7 +1,9 @@
 ---
-title: "assignment-4"
+title: "Nico's Website for Assignment 3"
 ---
 
-This is a Quarto website.
+Owner: Nicolina Piccolo —— [Github](https://github.com/therkildsen-class/ntres-6100-course-repo-nicolinacpiccolo-hub.git)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Collaborator: Maddie Schneider ——
+
+![This is a shooting star, my favorite wildflower](https://nativegardenhub.org/wp-content/uploads/2025/03/1KY5URM21YIlgiN3pwDXuhL5tCYAAWofD.webp)
