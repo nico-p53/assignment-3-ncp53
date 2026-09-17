@@ -17,5 +17,5 @@ format:
       dark: solar
     css: styles.css
     toc: true
-
+    page-layout: full
 
