@@ -2,9 +2,19 @@
 title: "Nico's Website for Assignment 3"
 ---
 
+```{=html}
+<style>
+h1, h2, h3 { text-align: center;}
+</style>
+```
+
 Owner: Nicolina Piccolo —— [Github](https://github.com/therkildsen-class/ntres-6100-course-repo-nicolinacpiccolo-hub.git)
 
-Collaborator: Maddie Schneider ——
-[Github](https://github.com/therkildsen-class/ntres-6100-course-repo-madisonsb27.git)
+Collaborator: Maddie Schneider —— [Github](https://github.com/therkildsen-class/ntres-6100-course-repo-madisonsb27.git)
 
 ![This is a shooting star, my favorite wildflower](https://nativegardenhub.org/wp-content/uploads/2025/03/1KY5URM21YIlgiN3pwDXuhL5tCYAAWofD.webp)
+
+# Fun Facts about Shooting Star wildflowers
+- These flowers do not make nectar and instead just have pollen
+- Native bumblebees are specifically adapted to the shape of this flower and have a special way to get the pollen out of the flower. They hold onto the anther cone with their legs and rapidly vibrate their flight muscles (without moving their wings) to "shake" the pollen out of the flower. 
+- The pollen in these flowers is extremely protein rich, making it an important food source for Queen bumblebees starting up their colony in the springtime. 
